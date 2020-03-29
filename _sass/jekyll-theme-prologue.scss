@@ -644,6 +644,11 @@
 		margin-left: 375px;
 		> section {
 			text-align: left;
+			header {
+				p {
+					text-align: center;
+				}
+			}
 		}
 		> article {
 			text-align: left;
