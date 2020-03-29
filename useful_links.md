@@ -6,29 +6,29 @@ icon: fa-book
 order: 3
 ---
 
-## RADYN
+### RADYN
 
 * Overview of radiative hydrodynamics: [Leenaarts et al. (2020)](https://link.springer.com/article/10.1007/s41116-020-0024-x)
 * Code paper (flare version): [Allred et al. (2015)](https://iopscience.iop.org/article/10.1088/0004-637X/809/1/104)
 * Publications: [ADS library](https://ui.adsabs.harvard.edu/public-libraries/tY0f2oP7SvO5yRfNlp4aZw)
 * Solar flare models: [F-CHROMA database](https://star.pst.qub.ac.uk/wiki/doku.php/public/solarmodels/start)
-* Tools: [IDL](http://folk.uio.no/matsc/radyn/tools.tar) | [radynpy (python)](https://github.com/Goobley/radynpy) | [Radynversion (python)](https://github.com/Goobley/Radynversion)
+* Tools: [IDL](http://folk.uio.no/matsc/radyn/tools.tar)  [radynpy (python)](https://github.com/Goobley/radynpy)  [Radynversion (python)](https://github.com/Goobley/Radynversion)
 
-## RH
+### RH
 
-* Code paper: [Uitenbroek (2001)](https://iopscience.iop.org/article/10.1086/321659) | [Pereira & Uitenbroek (2015)](https://www.aanda.org/articles/aa/abs/2015/02/aa24785-14/aa24785-14.html)
-* Code: [RH 1.5D](https://github.com/ITA-Solar/rh) | [myVersion (NCDF)](https://github.com/hshongjie/rh)
-* Manual: [RH 1.5D](https://rh15d.readthedocs.io) | [ITA Course](https://folk.uio.no/tiago/teaching/ast5210/#ast5210-rh-exercises)
+* Code paper: [Uitenbroek (2001)](https://iopscience.iop.org/article/10.1086/321659)  [Pereira & Uitenbroek (2015)](https://www.aanda.org/articles/aa/abs/2015/02/aa24785-14/aa24785-14.html)
+* Code: [RH 1.5D](https://github.com/ITA-Solar/rh)  [myVersion (NCDF)](https://github.com/hshongjie/rh)
+* Manual: [RH 1.5D](https://rh15d.readthedocs.io)  [ITA Course](https://folk.uio.no/tiago/teaching/ast5210/#ast5210-rh-exercises)
 * Tools: [helita (python)](https://github.com/ITA-solar/helita)
 
-## Inversion
+### Inversion
 
 * [NICOLE](https://github.com/hsocasnavarro/NICOLE)
 * [HAZEL](https://github.com/aasensio/hazel2)
-* [STiC](https://github.com/jaimedelacruz/stic) | [IRIS2](https://iris.lmsal.com/iris2)
+* [STiC](https://github.com/jaimedelacruz/stic)  [IRIS2](https://iris.lmsal.com/iris2)
 * [PORTA](https://gitlab.com/polmag/PORTA)
 
-## Codes and Databases
+### Codes and Databases
 
 * [PROM7](https://idoc.ias.u-psud.fr/MEDOC/Radiative%20transfer%20codes/PROM7) (radiative transfer for filaments/prominences)
 * [PANDORA](https://www.cfa.harvard.edu/~avrett/pandora/) (non-LTE radiative transfer)
@@ -39,12 +39,12 @@ order: 3
 * [TOPbase](http://cdsweb.u-strasbg.fr/topbase/topbase.html) (atomic database)
 * [KAPPA](http://space.asu.cas.cz/~elena/) (non-Maxwellian Kappa distribution)
 
-## Homepages
+### Homepages
 
-* [Mats Carlsson](http://folk.uio.no/matsc/) | [Rob Rutten](http://www.staff.science.uu.nl/~rutte101/) | [Peter Young](http://www.pyoung.org) | [Adam Kowalski](https://afkowalski.bitbucket.io)
-* [University of Oslo](https://www.mn.uio.no/rocs/english/) | [Tokyo University](http://www-space.eps.s.u-tokyo.ac.jp/group/yokoyama-lab/) | [Kyoto University](https://www.kwasan.kyoto-u.ac.jp)
+* [Mats Carlsson](http://folk.uio.no/matsc/)  [Rob Rutten](http://www.staff.science.uu.nl/~rutte101/)  [Peter Young](http://www.pyoung.org)  [Adam Kowalski](https://afkowalski.bitbucket.io)
+* [University of Oslo](https://www.mn.uio.no/rocs/english/)  [Tokyo University](http://www-space.eps.s.u-tokyo.ac.jp/group/yokoyama-lab/)  [Kyoto University](https://www.kwasan.kyoto-u.ac.jp)
 * [F-CHROMA](http://www.fchroma.org)
 
 ## Pokémon Go
 
-* [FANDOM Wiki](https://pokemongo.fandom.com/wiki/Pokémon_GO_Wiki) | [GamePress](https://gamepress.gg/pokemongo/)
+* [FANDOM Wiki](https://pokemongo.fandom.com/wiki/Pokémon_GO_Wiki)  [GamePress](https://gamepress.gg/pokemongo/)
