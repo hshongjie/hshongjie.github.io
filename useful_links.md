@@ -45,6 +45,6 @@ order: 3
 * [University of Oslo](https://www.mn.uio.no/rocs/english/) &emsp; [Tokyo University](http://www-space.eps.s.u-tokyo.ac.jp/group/yokoyama-lab/) &emsp; [Kyoto University](https://www.kwasan.kyoto-u.ac.jp)
 * [F-CHROMA](http://www.fchroma.org)
 
-## Pokémon Go
+### Pokémon Go
 
 * [FANDOM Wiki](https://pokemongo.fandom.com/wiki/Pokémon_GO_Wiki) &emsp; [GamePress](https://gamepress.gg/pokemongo/)
