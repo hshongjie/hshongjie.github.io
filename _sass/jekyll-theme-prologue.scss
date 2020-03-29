@@ -643,11 +643,9 @@
 	#main {
 		margin-left: 375px;
 		> section {
-			text-align: left;
-			header {
-				h2 {
-					text-align: center;
-				}
+			text-align: center;
+			p {
+				text-align: left;
 			}
 		}
 		> article {
